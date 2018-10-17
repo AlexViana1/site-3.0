@@ -1,0 +1,74 @@
+  .cores{
+    /* Branco */
+    color:#f8f9fa;
+    /* Azul */
+    color:#6ec5ff;
+    color:#2154cf;
+    /*  */
+    color:#f8f9fa;
+    color:#f8f9fa;
+  }
+  .icon{
+    font-size: 20px;
+  }
+  .arrow{
+    color: #f8f9fa;
+    font-size: 70px;
+  }
+  .bg-branco{
+    background-color: #f8f9fa;
+  }
+  .text-justify{
+    text-align: justify;
+  }
+  .botao-cor-principal{
+    background-image: -webkit-linear-gradient(45deg, #00bbff 0%, #0a5aff 100%) !important;
+  }
+  .Logo{
+    height: 40px;
+  }
+  #menu-rapido{
+    transition: all 0.2s;
+    font-size: 14px;
+    margin-top: -7px;
+    text-align: justify;
+  }
+  #menu-rapido ul li a{
+    margin-bottom: -7px;
+  }
+  #mainNav {
+    transition: all 0.3s;
+  }
+  .img-topo {
+    text-align: center;
+    color: #fff;
+    background-image: url(../img/imgtopo.jpeg);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center center;
+    background-size: cover;
+}
+.conteudo-topo {
+    padding-top: 30%;
+    padding-bottom: 30%;
+    font-size: 45px;
+    font-weight: 900;
+}
+.portfolio{
+  background-color: #f8f9fa;
+}
+.img-portfolio:hover{
+  transition: all ease .5s;
+  opacity: 0.5;
+}
+
+.rodape{
+  background-color: #f8f9fa;
+}
+.logorodape{
+  font-size:20px;
+}
+.logo:hover{
+  transition: 0.3s;
+  font-size: 25px;
+}
